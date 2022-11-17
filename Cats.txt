@@ -1,4 +1,4 @@
-Cats
+Cats and dogs
 
 They are fluffy
 They are cute
@@ -6,5 +6,7 @@ They are lazy
 They are funny
 They are lovely
 They are always hungry
+They are you best friends
+They are happy to play
 
-That is all
+That is all or is it?
