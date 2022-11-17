@@ -1,4 +1,4 @@
-Cats and dogs
+Cats and dogs and mouse
 
 They are fluffy
 They are cute
@@ -8,6 +8,7 @@ They are lovely
 They are always hungry
 They are you best friends
 They are happy to play
+Cheese
 They love to spend time with you
 
 That is all or is it?
